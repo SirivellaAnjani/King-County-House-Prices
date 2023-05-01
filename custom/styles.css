@@ -163,7 +163,7 @@
 	font-weight:300;
 	text-align:justify;
 	vertical-align: middle;
-	padding: 30px 10px 10px 10px;
+	padding: 20px 10px 10px 10px;
 }
 
 .my-h3 {
@@ -172,17 +172,16 @@
 	text-align:justify;
 	font-size:150%;
 	font-weight:150;
-	padding: 10px 10px 10px 10px;
+	padding: 10px;
 }
 
 .my-h4 {
 	color:#101010;
-	font-family: "Merriweather", serif;
+	font-family: "Open Sans", serif;
 	text-align:justify;
-	font-size:100%;
-	font-style: bold;
-	font-weight:150;
-	padding: 30px 30px 30px 10px;
+	font-size:150%;
+	font-weight:600;
+	padding: 10px;
 }
 
 
@@ -191,8 +190,14 @@
 	text-align:justify;
 	font-size:150%;
 	font-weight:120;
-	padding: 10px 30px 30px 10px;
+	padding: 10px;
 	line-height: 1.2em;
+}
+.my-code {
+	font-family: "Fira Code", monospace;
+	text-align:justify;
+	font-size:100%;
+	font-weight:200;
 }
 
 h1, h2, h3, h4 {
