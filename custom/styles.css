@@ -152,36 +152,37 @@
 	text-align:justify;
 	font-size:300%;
 	font-weight:400;
-	padding: 30px 30px 30px 10px;
+	padding: 30px 10px 30px 10px;
 }
 
 .my-h2 {	
 	background-color:#C3EAF0;
 	color:#101010;
 	font-family: "Merriweather", serif;
-	font-size:200%;
+	font-size:250%;
 	font-weight:300;
 	text-align:justify;
 	vertical-align: middle;
-	padding: 20px 10px 10px 10px;
+	padding: 20px 10px 20px 10px;
 }
 
 .my-h3 {
 	color:#101010;
 	font-family: "Merriweather", serif;
 	text-align:justify;
-	font-size:150%;
+	font-size:200%;
 	font-weight:150;
 	padding: 10px;
 }
 
 .my-h4 {
 	color:#101010;
-	font-family: "Open Sans", serif;
+	font-family: "Open Sans", sans-serif;
 	text-align:justify;
-	font-size:150%;
-	font-weight:400;
+	font-size:180%;
+	font-weight:700;
 	padding: 10px;
+	line-height: 1.2em;
 }
 
 
@@ -198,6 +199,11 @@
 	text-align:justify;
 	font-size:100%;
 	font-weight:200;
+}
+.my-obs {
+	background-color:#F4FCFC;
+	padding:20px;
+	margin:.5em;
 }
 
 h1, h2, h3, h4 {
